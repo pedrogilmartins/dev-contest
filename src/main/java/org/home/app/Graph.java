@@ -1,4 +1,4 @@
-package org.natixis.astre;
+package org.home.app;
 
 import lombok.Getter;
 import lombok.Setter;
